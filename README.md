@@ -27,7 +27,7 @@ This project leverages machine learning to support pharmaceutical sales teams by
 - Product metadata (category, usage, launch date)
 - Visit history and outcomes
 
-## 🛠️ Features
+## Features
 
 - Data preprocessing & feature engineering
 - Multiple ML models tested (Random Forest, XGBoost, etc.)
@@ -35,7 +35,7 @@ This project leverages machine learning to support pharmaceutical sales teams by
 - Top-N product recommendation logic
 - Dashboard to visualize and explore predictions
 
-## 📈 How It Works
+## How It Works
 
 1. **Ingest & clean** historical sales data.
 2. **Engineer features** to capture temporal trends, preferences, and interaction history.
@@ -43,7 +43,7 @@ This project leverages machine learning to support pharmaceutical sales teams by
 4. **Generate recommendations** for each salesperson.
 5. **Deploy** as a web app or API for real-time usage.
 
-## ✅ Example Use Case
+## Example Use Case
 
 > On the eve of a scheduled visit, a sales rep logs in and sees the top 3 product recommendations to pitch based on that doctor’s profile, preferences, and market trends.
 
